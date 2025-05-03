@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6453acaeb0ba3014884eeac1225dfcb7, type: 3}
+  m_Name: DarkUITheme_Idle
+  m_EditorClassIdentifier: 
+  colors:
+  - {r: 0.186, g: 0.201, b: 0.252, a: 1}
+  - {r: 0.27416667, g: 0.30333334, b: 0.35, a: 1}
+  - {r: 0.62695795, g: 0.64969736, b: 0.6886792, a: 1}
+  - {r: 0.37229598, g: 0.532148, b: 0.692, a: 1}
+  - {r: 0.320796, g: 0.3460231, b: 0.39900002, a: 1}
+  - {r: 0.629497, g: 0.63469046, b: 0.643, a: 1}
+  - {r: 0.255304, g: 0.27309272, b: 0.32900003, a: 1}
+  - {r: 0.769, g: 0.769, b: 0.769, a: 1}
+  - {r: 0.31722, g: 0.38846484, b: 0.51, a: 1}
+  - {r: 0.377784, g: 0.45674983, b: 0.59400004, a: 1}
+  - {r: 0.67800003, g: 0.67800003, b: 0.67800003, a: 1}
+  - {r: 0.42229506, g: 0.4434098, b: 0.48299998, a: 1}
+  - {r: 0.22374798, g: 0.3729857, b: 0.524, a: 1}
